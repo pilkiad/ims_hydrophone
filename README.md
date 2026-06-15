@@ -8,3 +8,5 @@ This repository consists:
 2. `noise_reduction.ipynb` - Noise reduction pipeline reducing noise and generating updated spectograms.
 3. `comparison_noise_desnoised.ipynb` - Used to generate the comparison graphic for figure 3.
 4. `image_diagrams_labelled.ipynb` - Used to generate the labeled waveforms for all other figures.
+   `gps_data_match.ipynb` - Used to evaluate gps data from echosounder dataset and generation of plot and otter_gps.gpx file to plot gps data on map.
+5. `noise_reductioncopy_modified_for_plot.ipynb` - A slightly changed version of `noise_reduction.ipynb` with the single purpose of creating a new plot.
